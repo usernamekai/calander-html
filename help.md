@@ -1,4 +1,3 @@
-
 ## Useful links
 
 for using links or making text become a link (example in the files) 
@@ -66,3 +65,7 @@ text-align:  center;
 >-   `p`  is a selector in CSS (it points to the HTML element you want to style: ).
 >-   `color`  is a property, and  `red`  is the property value
 >-   `text-align`  is a property, and  `center`  is the property value
+
+## how to add a link to a number
+
+ a href="(insert link)" style="text-decoration: none"> (number) </a
